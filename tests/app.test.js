@@ -22,7 +22,7 @@ afterAll(() => {
 
 describe('API Endpoints Testign', () => {
   
-  it('should retirve all employee with 200 statuscode', async () => {
+  it('should retirve all employee with 200 status code', async () => {
     let employeesData = [
         {
             employeeId: 1,
